@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Castillo Salazar</h1>
+<h1 align="center">Hellooo! 👋, I'm Diego Castillo Salazar 🧑‍💻👽</h1>
 <h3 align="center">I am a software engineering student from México.</h3>
 
 - 🌱 I’m currently learning **R and Python**
