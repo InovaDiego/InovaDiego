@@ -13,8 +13,6 @@
 ## About Me
 
 
- * 🤖Professional with solid experience in operations management and team development
-
 * 👾I am currently in the process of training in Software Engineering and Computer Systems, which allows me to provide an innovative perspective and technical knowledge.
 
 * 🌱 I’m currently learning **R** and **Python**
