@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego castillo salazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego castillo salazar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/diego-castillo-salazar-b919972aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego castillo salazar" height="30" width="40" /></a>
 <a href="https://instagram.com/diegocastillosalazar_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diegocastillosalazar_v" height="30" width="40" /></a>
 <a href="https://discord.gg/InovaDiego #0791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="InovaDiego #0791" height="30" width="40" /></a>
 </p>
