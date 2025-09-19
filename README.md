@@ -1,4 +1,4 @@
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Matrix Code' align='right'/>
 <h1 align="center">Hellooo! 👋, I'm Diego Castillo Salazar 🧑‍💻👽</h1>
 
 <h3 align="center">I am a software engineering student from México,Qro.</h3>
@@ -30,8 +30,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/diego-castillo-salazar-b919972aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego castillo salazar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diego-castillo-salazar-b919972aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego castillo salazar" height="30" width="40" /></a>
+
 <a href="https://instagram.com/diegocastillosalazar_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diegocastillosalazar_v" height="30" width="40" /></a>
+
 <a href="https://discord.gg/InovaDiego #0791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="InovaDiego #0791" height="30" width="40" /></a>
 </p>
 
